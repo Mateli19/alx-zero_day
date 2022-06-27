@@ -1,1 +1,1 @@
-This file is mandatory in projects
+This is a readme file of the 0x03 git tasks
